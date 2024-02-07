@@ -18,3 +18,8 @@ serving_dir
 keys/
 *.json
 keys/my-creds.json
+scratch*
+/mage_data*
+*secrets*.json
+magic-zoomcamp
+*.json
